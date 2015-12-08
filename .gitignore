@@ -1,0 +1,8 @@
+/.bundle
+/.ruby-version
+/log/*
+!/log/.keep
+/tmp
+/vendor/bundle
+/vendor/bin
+/.env
